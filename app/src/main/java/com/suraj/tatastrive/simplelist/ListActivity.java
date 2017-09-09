@@ -63,7 +63,7 @@ public class ListActivity extends AppCompatActivity
                 }
                 else
                 {
-                    Toast.makeText(ListActivity.this, "Please enter name", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ListActivity.this, "Please Language Name", Toast.LENGTH_SHORT).show();
                 }
         }
         return super.onOptionsItemSelected(item);
